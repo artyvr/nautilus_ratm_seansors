@@ -1,6 +1,6 @@
 # nautilus_ratm_seansors
 
-## Поиск датчиков Nautilus
+## Поиск датчиков банкоматов Nautilus
 
 Рабочий пример
 
