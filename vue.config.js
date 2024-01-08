@@ -9,6 +9,6 @@ module.exports = {
     appleMobileWebAppStatusBarStyle: 'black',
   },
     publicPath: process.env.NODE_ENV === 'production'
-      ? '/nrs/'
+      ? '/nautilus_ratm_seansors/'
       : '/'
   }
