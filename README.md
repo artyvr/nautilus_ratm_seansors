@@ -4,4 +4,4 @@
 
 Рабочий пример
 
-https://artyvr.github.io/nrs/
+https://artyvr.github.io/nautilus_ratm_seansors/
