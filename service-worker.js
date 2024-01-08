@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nrs/precache-manifest.517d341ee9810cf1578da39038ebb2bc.js"
+  "/nautilus_ratm_seansors/precache-manifest.d6eac223cb1f27b743a1fc03de1f75f5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "nautilus_ratm_seansors"});
